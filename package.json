@@ -1,0 +1,26 @@
+{
+  "name": "dracula_soft_modified",
+  "displayName": "Modified Dracula Soft Theme",
+  "description": "A modified version of the Dracula Soft Theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.86.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "icon": "./screenshots/icon.png",
+  "galleryBanner": {
+    "color": "#343746",
+    "theme": "dark"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "Dracula Soft Modified",
+        "uiTheme": "vs-dark",
+        "path": "./themes/myTheme-color-theme.json"
+      }
+    ]
+  }
+}
