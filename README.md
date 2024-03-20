@@ -11,8 +11,8 @@ This theme is derived from the soft version of the official [Dracula Theme for V
 ## Screenshots
 
 * JavaScript :  
-![screenshot](./images/jsScreen.png raw=true)
+![screenshot](./images/jsScreen.png?raw=true)
 * C++ :  
-![screenshot](./images/cppScreen.png raw=true)
+![screenshot](./images/cppScreen.png?raw=true)
 
 
