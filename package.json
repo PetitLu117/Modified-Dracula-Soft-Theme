@@ -9,7 +9,7 @@
   "categories": [
     "Themes"
   ],
-  "icon": "https://github.com/PetitLu117/Modified-Dracula-Soft-Theme/tree/main/images/icon.png",
+  "icon": "./images/icon.png",
   "galleryBanner": {
     "color": "#343746",
     "theme": "dark"
