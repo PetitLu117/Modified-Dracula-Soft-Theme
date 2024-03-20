@@ -1,6 +1,6 @@
 {
 	"$schema": "vscode://schemas/color-theme",
-	"name": "myTheme-inspiredBy-SoftDracula", // url(https://github.com/dracula/visual-studio-code/blob/master/src/dracula.yml)
+	"name": "dracula_soft_modified", // url(https://github.com/dracula/visual-studio-code/blob/master/src/dracula.yml)
 	"semanticClass": "theme.dracula",
 	"semanticHighlighting": true,
 	"dracula": {
@@ -58,6 +58,9 @@
 	// - https://github.com/dracula/visual-studio-code/blob/master/src/dracula.yml
 	//   ^-- github repo of the dracula theme and comments next to properties
 	"colors": {
+
+		//official clr == clr from the dracula-soft json file
+		
 		// Terminal Colors
 		"terminal.background": "#282A36",
 		"terminal.foreground": "#f6f6f4",

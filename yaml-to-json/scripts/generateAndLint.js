@@ -1,4 +1,7 @@
-// generateAndLint.js
+/*
+*!!This is the only script I (PetitLu117) built!!
+*/
+
 const generate = require('./generate');
 const build = require('./build');
 const lint = require('./lint');
