@@ -9,7 +9,11 @@
   "categories": [
     "Themes"
   ],
+<<<<<<< Updated upstream
   "icon": "./images/icon.png",
+=======
+  "icon": "images/icon.png",
+>>>>>>> Stashed changes
   "galleryBanner": {
     "color": "#343746",
     "theme": "dark"
