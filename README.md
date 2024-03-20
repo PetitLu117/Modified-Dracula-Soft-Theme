@@ -12,7 +12,9 @@ Here is the [Modified Dracula Soft Theme](https://github.com/PetitLu117/Modified
 
 ## Screenshots
 
-* JavaScript : ![screenshot](https://github.com/PetitLu117/Modified-Dracula-Soft-Theme/blob/main/images/jsScreen.png)
-* C++ : ![screenshot](https://github.com/PetitLu117/Modified-Dracula-Soft-Theme/blob/main/images/cppScreen.png)
+* JavaScript :  
+![screenshot](https://github.com/PetitLu117/Modified-Dracula-Soft-Theme/blob/main/images/jsScreen.png)
+* C++ :  
+![screenshot](https://github.com/PetitLu117/Modified-Dracula-Soft-Theme/blob/main/images/cppScreen.png)
 
 
