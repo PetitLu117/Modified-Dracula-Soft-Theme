@@ -98,7 +98,7 @@
 		// "button.border": "#",
 		// "button.hoverBackground": "#",
 		"button.hoverBackground": "#d0b0fb",//no color in official theme
-		// "button.secondaryBackground": "282A36",
+		"button.secondaryBackground": "#f00",
 		// "button.secondaryForeground": "f6f6f4",
 		// "button.secondaryHoverBackground": "#343746",
 
