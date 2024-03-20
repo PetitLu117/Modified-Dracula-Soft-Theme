@@ -429,7 +429,7 @@
 		"list.filterMatchBackground": "#dd44dd44",
 	//notifications
 		"notifications.background": "#282A36",
-		"notificationLink.foreground": "#ff0000",
+		"notificationLink.foreground": "#c7aaf0",
 		"notificationsErrorIcon.foreground": "#ff5555",
 		"notificationsWarningIcon.foreground": "#FFB86C",
 		"notificationsInfoIcon.foreground": "#c39afb",
