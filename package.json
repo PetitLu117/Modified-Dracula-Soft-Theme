@@ -2,7 +2,7 @@
   "name": "dracula_soft_modified",
   "displayName": "Modified Dracula Soft Theme",
   "description": "A modified version of the Dracula Soft Theme",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "engines": {
     "vscode": "^1.86.0"
   },
