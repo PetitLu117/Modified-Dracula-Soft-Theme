@@ -416,12 +416,6 @@
 		"textSeparator.foreground": "#00ff00",//no color in official theme
 		//^-idk what's this
 
-
-
-		//!!!!!!!!!!!!WENT UNTIL HERE!!!!!!!!!!!!!
-		
-		
-		
 		//selection colors
 		"searchEditor.findMatchBackground": "#dd44dd44",
 		"terminal.findMatchBackground": "#694176fe",//alpha is being ignored although we must declare it
