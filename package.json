@@ -1,31 +1,41 @@
 {
-  "name": "modified-dracula-soft",
-  "displayName": "Modified Dracula Soft Theme",
-  "description": "A modified version of the Dracula Soft Theme",
-  "version": "1.0.0",
-  "engines": {
-    "vscode": "^1.86.0"
-  },
-  "publisher": "PetitLu117",
-  "categories": [
-    "Themes"
-  ],
-  "icon": "./images/icon.png",
-  "galleryBanner": {
-    "color": "#343746",
-    "theme": "dark"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/PetitLu117/Modified-Dracula-Soft-Theme.git"
-  },
-  "contributes": {
-    "themes": [
-      {
-        "label": "Dracula Soft Modified",
-        "uiTheme": "vs-dark",
-        "path": "./theme/dracula_soft_modified.json"
-      }
-    ]
-  }
+	"name": "modified-dracula-soft",
+	"displayName": "Modified Dracula Soft Theme",
+	"description": "A modified version of the Dracula Soft Theme",
+	"version": "1.0.0",
+	"engines": {
+		"vscode": "^1.86.0"
+	},
+	"publisher": "PetitLu117",
+	"categories": [
+		"Themes"
+	],
+	"galleryBanner": {
+		"color": "#343746",
+		"theme": "dark"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/PetitLu117/Modified-Dracula-Soft-Theme.git"
+	},
+	"contributes": {
+		"themes": [
+			{
+				"label": "Dracula Soft Modified",
+				"uiTheme": "vs-dark",
+				"path": "./theme/dracula_soft_modified.json"
+			}
+		]
+	},
+	"__metadata": {
+		"id": "6bc97f45-e0d0-4b2f-938d-9fb357c6eb7b",
+		"publisherId": "7835cf88-fc2d-4292-93bb-6130c27f2165",
+		"publisherDisplayName": "PetitLu117",
+		"targetPlatform": "undefined",
+		"updated": false,
+		"isPreReleaseVersion": false,
+		"hasPreReleaseVersion": false,
+		"installedTimestamp": 1710909572379,
+		"pinned": false
+	}
 }
